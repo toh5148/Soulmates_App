@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.toh5148.datingapp.LoginActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_editProfile"
+        android:orderInCategory="100"
+        android:title="@string/action_editProfile"
+        android:icon="@drawable/ic_edit_profile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="@string/action_search"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_myMatches"
+        android:orderInCategory="100"
+        android:title="@string/action_myMatches"
+        android:icon="@drawable/ic_my_matches"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_myRequests"
+        android:orderInCategory="100"
+        android:title="@string/action_myRequests"
+        android:icon="@drawable/ic_my_requests"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="100"
+        android:title="@string/action_home"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="never" />
+</menu>
